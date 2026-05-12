@@ -1,0 +1,2 @@
+# VALIMAT_01a_ABS
+Calibrated_Strain_Rate_Dependency_Material_Models
